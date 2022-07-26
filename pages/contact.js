@@ -4,21 +4,37 @@ function ContactPage(){
             Contact us
         </h1>
 
-        <p className="py-4 font-bold text-gray-500">
-            For B2B & Wholesale orders please contact us through our Email or Whatsapp.
-        </p>
-
-        <p className="py-4 font-bold text-gray-500">
-            Email: theseem.co@gmail.com
-        </p>
+       
 
         <p className="py-4 font-bold text-black">
-            Instagram: @theseem.co
+            Address: Aziz Mahmut Hüdayi, Gülfem Sk. No: 4, 34627 Üsküdar/İstanbul/Turkey
         </p>
 
+        <a
+        href="https://goo.gl/maps/hW3EhmJ3kuq9g3LAA"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button className="hover:text-green-600">Click for directions</button>
+      </a>
+
+
+
         <p className="py-4 font-bold text-black">
-            Whatsapp: +90 5...
+            Instagram: @7kcoffeeworkshop
         </p>
+
+        <a
+        href="https://www.instagram.com/7kcoffeeworkshop/"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <button className="hover:text-green-600">Contact via Instagram</button>
+      </a>
+
+       
 
 
     </div>
