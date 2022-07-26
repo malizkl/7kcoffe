@@ -7,7 +7,7 @@ export default function Header(){
 
             <nav>
                 <div className="flex items-start justify-items-start justify-start">
-                    <h1 className="text-green-600  text-4xl font-bold p-6">7KCoffee</h1>
+                    <h1 className="text-green-600  text-4xl font-bold p-6">7K Coffee & Workshop</h1>
                 </div>
             </nav>
 
