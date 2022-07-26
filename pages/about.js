@@ -5,17 +5,9 @@ function AboutPage(){
             7KCoffe Story!
         </h1>
 
-        <p className="py-4  text-gray-500">
-        Her İstanbul âşığı bilir;
-
-İstanbul yedi tepe üzerine kurulmuştur ve her tepenin üstünde bir cami vardır. 🕌
-
-Sizlere dünyanın en kaliteli kahvelerini sunmak için tepeleri, camileriyle birlikte görebileceğiniz canım Üsküdar'a davet ediyoruz. Nur topu gibi bir Muhalif mutfak by 7K'nız oldu efendim. 🤲
+       
 
 
-
-
-    </p>
 
     <p className="py-4 text-gray-500">Legend has it that Istanbul was built on 7 Hills, like the Byzantine model of Rome. 🌍
 
