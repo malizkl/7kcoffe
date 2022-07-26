@@ -9,9 +9,9 @@ function AboutPage(){
 
 
 
-    <p className="py-4 text-gray-500">Legend has it that Istanbul was built on 7 Hills, like the Byzantine model of Rome. 🌍
+    <p className="py-4 text-gray-500">Legend has it that Istanbul was built on 7 Hills, like the Byzantine model of Rome.
 
-We intend to set our marks from here to the 7 continents with our Premium High-Quality Gourmet Coffee! 🇹🇷    </p>
+We intend to set our marks from here to the 7 continents with our Premium High-Quality Gourmet Coffee! 🇹   </p>
 
         <a
         href="https://www.instagram.com/7kcoffeeworkshop/"

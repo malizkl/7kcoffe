@@ -7,7 +7,7 @@ function ContactPage(){
        
 
         <p className="py-4 font-bold text-black">
-            Address: Aziz Mahmut Hüdayi, Gülfem Sk. No: 4, 34627 Üsküdar/İstanbul/Turkey
+            Address: Aziz Mahmut Hudayi, Gulfem Sk. No: 4, 34627 Uskudar/Istanbul/Turkey
         </p>
 
         <a
