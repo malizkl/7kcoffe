@@ -26,19 +26,19 @@ function ProductPage(){
           width='600'
           height='600'
         />
-            <p className="py-2"> Pooh  Oversize Hoodie</p>
+            <p className="py-2">Take-away Coffee</p>
           </a>
 
 
           <a className={styles.card}>
 
           <Image
-          src='/all2.jpeg'
+          src='/all3.jpeg'
           alt='kitten'
-          width='600'
-          height='600'
+          width='300'
+          height='300'
         />
-            <p className="py-2">Winnie The Pooh  Oversize Hoodie</p>
+            <p className="py-2">Magnolia & Caffe Latte</p>
           </a>
 
 
@@ -50,7 +50,7 @@ function ProductPage(){
   height='300'
   priority
 />
-<p className="py-2 "> Pooh  Oversize Hoodie</p>
+<p className="py-2 ">Handcrafted Biscoff Latte</p>
 </a>
 
 
@@ -62,7 +62,7 @@ function ProductPage(){
   width='300'
   height='300'
 />
-<p className="py-2">Winnie The Pooh  Oversize Hoodie</p>
+<p className="py-2">Moroccan Mint Tea</p>
 </a>
 
 
@@ -79,7 +79,7 @@ function ProductPage(){
   width='600'
   height='600'
 />
-<p className="py-2">Appa  Oversize Hoodie</p>
+<p className="py-2">All-natural Brownie</p>
 </a>
 
 
@@ -92,7 +92,7 @@ function ProductPage(){
   width='600'
   height='600'
 />
-<p className="py-2"> Sunger Bob  Oversize Hoodie</p>
+<p className="py-2">Take-away Coffee</p>
 </a>
 
 

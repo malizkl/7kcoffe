@@ -44,7 +44,7 @@ export default function Home() {
               height='300'
               priority
             />
-            <p className="py-2 "> Pooh  Oversize Hoodie</p>
+            <p className="py-2 ">Handcrafted Biscoff Latte</p>
           </a>
 
 
@@ -56,7 +56,7 @@ export default function Home() {
               width='300'
               height='300'
             />
-            <p className="py-2">Winnie The Pooh  Oversize Hoodie</p>
+            <p className="py-2">Moroccan Mint Tea</p>
           </a>
 
 
@@ -73,7 +73,7 @@ export default function Home() {
               width='600'
               height='600'
             />
-            <p className="py-2">Appa  Oversize Hoodie</p>
+            <p className="py-2">All-natural Brownie</p>
           </a>
 
 
@@ -86,7 +86,7 @@ export default function Home() {
               width='600'
               height='600'
             />
-            <p className="py-2"> Sunger Bob  Oversize Hoodie</p>
+            <p className="py-2">Take-away Coffee</p>
           </a>
 
 
