@@ -12,7 +12,6 @@ function ContactPage(){
 
         <a
         href="https://goo.gl/maps/hW3EhmJ3kuq9g3LAA"
-        class="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -27,7 +26,6 @@ function ContactPage(){
 
         <a
         href="https://www.instagram.com/7kcoffeeworkshop/"
-        class="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
       >

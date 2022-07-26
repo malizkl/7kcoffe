@@ -23,7 +23,6 @@ We intend to set our marks from here to the 7 continents with our Premium High-Q
 
         <a
         href="https://www.instagram.com/7kcoffeeworkshop/"
-        class="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
       >
